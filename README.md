@@ -80,6 +80,7 @@ Sécuriser ce que je construis, et construire ce que je sécurise.
 -->
 
 👉 Voir mes projets épinglés et l'ensemble de mes [repositories](https://github.com/SpikeIsUp?tab=repositories).
+👉 Site vitrine (https://spikeisup.github.io/siteVitrine)
 
 ---
 
