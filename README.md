@@ -58,7 +58,7 @@ Sécuriser ce que je construis, et construire ce que je sécurise.
 
 - Formation en cybersécurité à **Sophia Ynov Campus** (2025 – aujourd'hui)
 - Mise en place de **laboratoires virtualisés** (VMware, VirtualBox) pour tester et expérimenter en environnement isolé
-- Passage de la **CJCA** prévu en février 2026
+- Passage de la **CJCA** 
 <!-- Ajoute ici tes vraies compétences/outils cyber : CTF, TryHackMe, HackTheBox, Wireshark, Nmap, Linux, réseau, etc. -->
 
 ## 💻 Développement
